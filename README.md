@@ -29,7 +29,7 @@ I’m both excited and a bit nervous about this journey, but I’m confident tha
 ### 🏗️ Projects
 
 | Project               | Progress      | Version |
-| --------------------- | ------------- | ------- |
+| --------------------- | :-------------: | :-------: |
 | [Homelab](https://github.com/jpvneves/homelab) | In Progress | 1.0 |
 | Linux Hardening | Planning Stages | - |
 | Basic Web Server | TODO | - |
@@ -38,7 +38,7 @@ I’m both excited and a bit nervous about this journey, but I’m confident tha
 ### 🎓 Degree & Certifications
 
 | Certification | Progress   | Grade |
-| ------------- | ---------- | ----- |
+| ------------- | :----------: | :-----: |
 | **Informatics Engineering** | Studying | - |
 | **CompTIA A+** | Studying | - |
 | **CompTIA Network+** | Studying | - |
