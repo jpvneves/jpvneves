@@ -32,7 +32,7 @@ I’m both excited and a bit nervous about this journey, but I’m confident tha
 | --------------------- | :-------------: | :-------: |
 | [Homelab](https://github.com/jpvneves/homelab) | In Progress | 1.0 |
 | [General Hardening](https://github.com/jpvneves/general-hardening) | In Progress | - |
-| [Web Server (Nginx & Apache)](https://github.com/jpvneves/Web-Server-Nginx-Apache) | Planning Stages | - |
+| [Web Server](https://github.com/jpvneves/Web-Server) | Planning Stages | - |
 | Python Automation Scripts | Planning Stages | - |
 
 ### 🎓 Degree & Certifications
