@@ -31,7 +31,7 @@ I’m both excited and a bit nervous about this journey, but I’m confident tha
 | Project               | Progress      | Version |
 | --------------------- | :-------------: | :-------: |
 | [Homelab](https://github.com/jpvneves/homelab) | In Progress | 1.0 |
-| [General Hardening](https://github.com/jpvneves/general-hardening) | In Progress | - |
+| [General Hardening](https://github.com/jpvneves/general-hardening) | In Progress | 1.0 |
 | [Web Server](https://github.com/jpvneves/Web-Server) | Planning Stages | - |
 | Python Automation Scripts | Planning Stages | - |
 
