@@ -18,6 +18,7 @@ I’m both excited and a bit nervous about this journey, but I’m confident tha
 ### Operating Systems
 - **Windows 11**
 - **Ubuntu**
+- **Arch Linux**
 
 ### Software
 - **Oracle VirtualBox**
