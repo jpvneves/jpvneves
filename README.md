@@ -4,10 +4,10 @@
 
 ## 👤 About Me
 
-My name is João, and I'm studying by myself to become the best cybersecurity professional I can be!
+My name is João Neves, I'm studying to become the best cybersecurity professional I can be!
 
-I've been in love with computers ever since I was a child and have always enjoyed tinkering with them. I was especially interested and inspired by hacker movies and the idea of how dangerous and powerful the internet and computers can be.\
-Unfortunately, as I got older, I never pursued anything related to this professionally, but that's about to change! A few months ago, I made the decision to leave my job and dedicate myself fully to my dream of becoming a cybersecurity professional.\
+I've been in love with computers ever since I was a child and have always enjoyed tinkering with them. It started with video games and then it slowly progressed into modifying them, troubleshooting, dealing with random viruses and sometimes even a bit of coding. Very early on I realised just how dangerous and powerful the internet and computers could be.\
+Unfortunately, as I got older I never pursued anything related to this professionally, but that's about to change! A few months ago, I made the decision to leave my job and dedicate myself fully to my dream of becoming a cybersecurity professional.\
 I even went back to university and enrolled in Informatics Engineering, planning to take the degree slowly while focusing primarily on my personal projects and certifications.  
 I’m both excited and a bit nervous about this journey, but I’m confident that with persistence and hard work, it will pay off!
 
