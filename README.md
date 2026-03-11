@@ -31,7 +31,7 @@ I’m both excited and a bit nervous about this journey, but I’m confident tha
 
 | Project               | Progress      | Version |
 | --------------------- | :-------------: | :-------: |
-| [Homelab](https://github.com/jpvneves/homelab) | In Progress | 1.0 |
+| [Homelab](https://github.com/jpvneves/homelab) | In Progress | - |
 
 ### 🎓 Degree & Certifications
 
