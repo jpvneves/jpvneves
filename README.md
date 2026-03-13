@@ -16,31 +16,35 @@ I’m both excited and a bit nervous about this journey, but I’m confident tha
 ## 🛠️ Tools & Technologies
 
 ### Operating Systems
-- **Windows 11**
-- **Ubuntu**
-- **Arch Linux**
+- Arch Linux
+- Ubuntu
+- Windows 11
 
 ### Software
-- **Oracle VirtualBox**
+- Oracle VirtualBox
 
 ---
 
 ## 🚀 Roadmap
 
+### 🎓 Education
+
+| Bachelor's Degree | Progress   |
+| ------------- | :----------: |
+| Informatics Engineering | Studying |
+
+| Certification | Progress   |
+| ------------- | :----------: |
+| CompTIA A+ | Studying |
+| CompTIA Network+ | Studying |
+| CompTIA Linux+ | Studying |
+
+
 ### 🏗️ Projects
 
 | Project               | Progress      | Version |
 | --------------------- | :-------------: | :-------: |
-| [Homelab](https://github.com/jpvneves/homelab) | In Progress | - |
-
-### 🎓 Degree & Certifications
-
-| Certification | Progress   | Grade |
-| ------------- | :----------: | :-----: |
-| **Informatics Engineering** | Studying | - |
-| **CompTIA A+** | Studying | - |
-| **CompTIA Network+** | Studying | - |
-| **CompTIA Linux+** | Studying | - |
+| Homelab | Planning | - |
 
 ---
 
