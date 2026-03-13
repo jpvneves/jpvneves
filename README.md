@@ -13,18 +13,6 @@ I’m both excited and a bit nervous about this journey, but I’m confident tha
 
 ---
 
-## 🛠️ Tools & Technologies
-
-### Operating Systems
-- Arch Linux
-- Ubuntu
-- Windows 11
-
-### Software
-- Oracle VirtualBox
-
----
-
 ## 🚀 Roadmap
 
 ### 🎓 Education
@@ -45,6 +33,18 @@ I’m both excited and a bit nervous about this journey, but I’m confident tha
 | Project               | Progress      | Version |
 | --------------------- | :-------------: | :-------: |
 | Homelab | Planning | - |
+
+---
+
+## 🛠️ Tools & Technologies
+
+### Operating Systems
+- Arch Linux
+- Ubuntu
+- Windows 11
+
+### Software
+- Oracle VirtualBox
 
 ---
 
