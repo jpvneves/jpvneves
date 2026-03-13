@@ -44,6 +44,7 @@ I’m both excited and a bit nervous about this journey, but I’m confident tha
 
 | Project               | Progress      | Version |
 | --------------------- | :-------------: | :-------: |
+| Programming | Planning | - | 
 | Homelab | Planning | - |
 
 ---
